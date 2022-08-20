@@ -1,7 +1,7 @@
 # git_helper
 git使用指南
 
-# 第一步
+# 如何上传代码到github 仓库
 ## 初始化本地仓库 
 git init 
 ## 关联 远端仓库 
