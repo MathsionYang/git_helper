@@ -29,4 +29,5 @@ gir commit -m "上传信息"
 ## 开始上传
 git push -u origin "分支"
  
-
+# 3.代码合并
+后面在写
