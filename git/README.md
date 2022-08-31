@@ -57,3 +57,7 @@ git commit -m '更新 .gitignore'
 git fetch --all
 git reset --hard origin/master
 ```
+git rm -r --cached .
+git add .
+git commit -m '更新 .gitignore'
+
